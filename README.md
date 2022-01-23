@@ -1,5 +1,5 @@
 - 👋 Hi, I’m Zen Analyst
-- 🌱 I’m currently learning SQL, Java and Python
+- 🌱 I’m currently learning SQL, Python, Java and Javascript
 - 💞️ I’m looking to collaborate on beginner projects to help build my skills
 
 <!---
