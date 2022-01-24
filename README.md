@@ -1,4 +1,4 @@
-- 👋 Hi, I’m Zen Analyst
+- 👋 Hi, I’m Cynthia
 - 🌱 I’m currently learning SQL, Python, Java and Javascript
 - 💞️ I’m looking to collaborate on beginner projects to help build my skills
 
